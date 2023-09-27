@@ -24,6 +24,6 @@
 }
 {
     "navigationFallback": {
-        "rewrite": "/index.html"
+        "rewrite": "src/index.html"
     }
 }
